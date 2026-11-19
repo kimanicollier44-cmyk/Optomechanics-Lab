@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](Optomechanics-Lab%20cover.png)
 
 # Optomechanics-Lab 🔊⚛️
 
